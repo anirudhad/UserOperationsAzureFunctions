@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{3C6F766D-2A0E-4488-8FB2-BFD25ECC6959}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UserOperationsPOC/DataTransferObjects/Data.cs">
+    <Files>
+      <File FileName="UserOperationsPOC/UserOperationsPOC.cs" Line="66" Column="36" />
+      <File FileName="UserOperationsPOC/DataTransferObjects/UserDTO.cs" Line="10" Column="6" />
+      <File FileName="UserOperationsPOC/DataTransferObjects/Data.cs" Line="9" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UserOperationsPOC" expanded="True">
+            <Node name="UserOperationsPOC" expanded="True">
+              <Node name="DataTransferObjects" expanded="True">
+                <Node name="Data.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UserOperationsPOC PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/anirudha/Documents/GitHub/UserOperationsAzureFunctions/UserOperationsPOC/UserOperationsPOC/UserOperationsPOC.cs" relfile="UserOperationsPOC/UserOperationsPOC.cs" line="24" column="1" />
+      <Breakpoint file="/Users/anirudha/Documents/GitHub/UserOperationsAzureFunctions/UserOperationsPOC/UserOperationsPOC/UserOperationsPOC.cs" relfile="UserOperationsPOC/UserOperationsPOC.cs" line="54" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
